@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aptro-zerodha-mcp-badge.png)](https://mseep.ai/app/aptro-zerodha-mcp)
+
 # Zerodha MCP Integration
 [![smithery badge](https://smithery.ai/badge/@aptro/zerodha-mcp)](https://smithery.ai/server/@aptro/zerodha-mcp)
 
